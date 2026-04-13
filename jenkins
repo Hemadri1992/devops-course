@@ -1,0 +1,36 @@
+What is CI/CD  
+ Introduction to Jenkins  
+ History of Jenkins/Hudson 
+ How to install Jenkins in Windows 
+and Linux  
+ How to create Jobs 
+ Diff types of jobs  
+ Integration GitHub & Jenkins 
+ Working with Build tools  
+ Build from GitHub Project 
+ Managing Remote Systems with 
+Jenkins  
+ Parameterized Builds 
+ Securing Jenkins 
+ How to install plugins in Jenkins  
+ Scheduling Builds 
+ Setting up Different Types of 
+Automated Builds
+ How to configure one job to another 
+job  
+ Configure Global Security  
+ Jenkins Administration 
+ How to create maven type job 
+ Jenkins pipeline syntax and structure 
+ Jenkins pipeline by using script and 
+plugins 
+ Working with jenkinsfile and 
+declarative pipeline  
+ Jenkins Backup 
+ How to deploy code in servers 
+ Authentication and Authorization  
+ How to create Nodes in diff Servers  
+ Build pipeline view 
+ Useful plugins in Jenkins 
+ Integration of sonar with Jenkins 
+ Integration of nexus with Jenkins
